@@ -40,7 +40,9 @@ executable DSLsofMath-exe
       Algebra
       ComplexNum
       ComplexNumSemantics
+      Exercises.Chap1
       Sequences
+      Solutions.Chap1
       Paths_DSLsofMath
   hs-source-dirs:
       app
